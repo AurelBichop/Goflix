@@ -1,2 +1,2 @@
 # Goflix
-api technique en, Golang
+api technique en Golang
